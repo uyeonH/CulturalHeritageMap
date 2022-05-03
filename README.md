@@ -44,3 +44,6 @@ SampleRepositoryImpl implements SampleRepositoryCustom // 구현클래스
 
 
 http://localhost:8080/swagger-ui/index.html
+
+TRACE  <  DEBUG  <  INFO  <  WARN  <  ERROR
+
