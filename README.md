@@ -47,3 +47,7 @@ http://localhost:8080/swagger-ui/index.html
 
 TRACE  <  DEBUG  <  INFO  <  WARN  <  ERROR
 
+AOP
+- 로그 관리
+- 로그인 관리
+
