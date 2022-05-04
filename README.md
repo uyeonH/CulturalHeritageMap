@@ -33,6 +33,9 @@ https://www.erdcloud.com/d/NgmS4iWyRNXB3kFhi
 - Spring Security
 - Spring Batch
 - Spring Validation
+- ElasticSearch
+- Docker
+- Jenkins
 
 ### 오픈소스
 - guava
@@ -60,6 +63,7 @@ https://www.erdcloud.com/d/NgmS4iWyRNXB3kFhi
    - Spring Security, jwt를 활용하여 로그인, 인증
    - 메세지 국제화 messages.properties
    - 프론트단은 thymeleaf 활용
+   - 도커에서 엘라스틱서치 
 
 
 
